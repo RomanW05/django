@@ -49,6 +49,8 @@ Minor features
 * Added a CSS class to the column headers of
   :class:`~django.contrib.admin.TabularInline`.
 
+* The new :func:`django.shortcuts.make_toast` function returns ``'toast'``.
+
 :mod:`django.contrib.auth`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
